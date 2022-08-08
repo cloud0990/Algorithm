@@ -5,7 +5,7 @@
   
   ---
   
-<a href="https://solved.ac/profile/cloud099"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=cloud0990"/></a>
-<a href="https://sedentary.tistory.com/category/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98"><img src="https://img.shields.io/badge/cloud0990-E5511E?style=flat-square&logo=Blogger&logoColor=white"/></a> 
+<a href="https://solved.ac/profile/cloud099">Boj</a>
+<a href="https://sedentary.tistory.com/category/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98"><img src="https://img.shields.io/badge/cloud0990-E5511E?style=flat-square&logo=tistory&logoColor=white"/></a> 
   <br>
 </div>
