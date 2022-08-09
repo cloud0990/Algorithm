@@ -1,4 +1,4 @@
-package java.reviewinherit;
+package java.inherit;
 
 class Human {
 	

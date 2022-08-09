@@ -1,4 +1,4 @@
-package java.reviewcollection;
+package java.collection;
 
 import java.util.LinkedList;
 import java.util.Queue;
