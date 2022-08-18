@@ -1,4 +1,4 @@
-package boj.dfs;
+package boj.bfs;
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
@@ -19,7 +19,7 @@ import java.util.StringTokenizer;
 5 3
 */
 
-public class _1325_효율적인해킹_재귀2 {
+public class _1325_효율적인해킹 {
 	
 	//전역변수
 	static int[]     computer; //방문횟수배열
