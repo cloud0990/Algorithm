@@ -1,4 +1,3 @@
-<div align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seondal&theme=dracula&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=10"/>
-<br>
-</div>
+<hr>
+<h4>🐟⚡ Algorithm Study with Java 🐟✨</h4>
+<hr>
